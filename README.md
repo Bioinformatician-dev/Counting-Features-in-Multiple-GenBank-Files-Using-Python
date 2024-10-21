@@ -10,7 +10,7 @@ In this task, we aim to create a Python script that can parse multiple GenBank f
 
 ## Authors
 
-- [@Bioinformatician-dev](https://www.github.com/Bioinformatician-dev)
+- [@Salma](https://www.github.com/Bioinformatician-dev)
 
 
 ## Explanation
